@@ -1,0 +1,13 @@
+git+https://github.com/openai/CLIP.git
+gensim==4.1.2
+matplotlib==3.5.1
+nltk==3.6.7
+numpy==1.21.5
+Pillow==9.0.0
+PyYAML==6.0
+scikit_learn==1.0.2
+spacy==3.2.1
+torch==1.10.1
+torchcam==0.2.0
+torchvision==0.11.2
+transformers==4.15.0
