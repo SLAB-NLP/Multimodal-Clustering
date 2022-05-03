@@ -33,6 +33,18 @@ Note: the setup may take several minutes.
 
 
 
+## Download Pre-trained models
+
+To use our pre-trained models, please:
+
+- download the files from the following link:
+    https://drive.google.com/drive/folders/1S4f9kKGD7uXizhNPzsdJcb1PmZhZqh9Q?usp=sharing
+- Create a 'models' directory under the project root
+- Create a 'models/text' directory, and unzip the text_models.zip file into it
+- Create a 'models/visual' directory, and unzip the visual_models.zip file into it
+
+
+
 ## Usage
 
 To train the model, run the following command:
